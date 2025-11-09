@@ -3,6 +3,12 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/main/VisualStudio.gitignore
 
+# Ignore entire folders
+Program0_UniversityHousingLottery/
+Program1/
+Program2/
+Program3/
+
 # User-specific files
 *.rsuser
 *.suo

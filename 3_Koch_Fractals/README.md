@@ -1,5 +1,6 @@
 Compilation Instructions
 The program requires a C++ compiler (such as g++) and the C++ standard library.
+
 Step 1: Compile the Source Files
 Use this command to compile all source files and link them into a single excecutable named koch:
 
